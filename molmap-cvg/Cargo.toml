@@ -1,0 +1,10 @@
+[package]
+name = "molmap-cvg"
+version = "0.1.0"
+edition = "2024"
+license = "MPL-2.0"
+
+[dependencies]
+molmap = { version = "0.1.0", path = "../../molmap/molmap" }
+molmap-svg = { version = "0.1.0", path = "../../molmap/molmap-svg" }
+svg = "0.18.0"

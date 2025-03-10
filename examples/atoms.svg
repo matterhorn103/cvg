@@ -1,0 +1,17 @@
+<!--This file is primarily to enable easy comparison of the appearance of common element symbols when different fonts are used.-->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cvg="http://www.github.com/matterhorn103/cvg" cvg:version="0.1" width="400" height="600">
+ <style>
+  .atom {
+   font-family: "Liberation Sans", "Helvetica", "Arial", sans-serif;
+  }
+ </style>
+ <rect cvg:role="background" width="100%" height="100%" fill="white"/>
+ <text cvg:role="pseudoatom" class="atom" x="200" y="200" id="p1">R</text>
+ <text cvg:role="pseudoatom" class="atom" x="200" y="220" id="p2">Ar</text>
+ <text cvg:role="atom" class="atom" x="200" y="240" id="a1">H</text>
+ <text cvg:role="atom" class="atom" x="200" y="260" id="a2">C</text>
+ <text cvg:role="atom" class="atom" x="200" y="280" id="a3">O</text>
+ <text cvg:role="atom" class="atom" x="200" y="300" id="a4">N</text>
+ <text cvg:role="atom" class="atom" x="200" y="320" id="a5">Cl</text>
+ <text cvg:role="atom" class="atom" x="200" y="340" id="a6">I</text>
+</svg>
